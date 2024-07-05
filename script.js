@@ -75,7 +75,7 @@ function landingPageAnimation() {
     stagger: 0.2,
   });
 }
-landingPageAnimation();
+// landingPageAnimation();
 
 function navAnimation() {
   var nav = document.querySelector("nav");
